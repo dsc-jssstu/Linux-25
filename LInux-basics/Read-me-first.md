@@ -1,21 +1,5 @@
 
 
-Sign in to start saving your chats
-Once you're signed in, you can access your recent chats here.
-
-Sign in
-
-Conversation with Gemini
-Basic Linux Commands
-
-
-
-Linux relies on the Command Line Interface (CLI) instead of a Graphical User Interface (GUI) for speed, automation, and precise control. While GUIs are user-friendly, they are slower, consume more system resources, and lack advanced functionality.
-
-The CLI allows users to execute tasks faster, automate repetitive processes, and manage systems remotely using SSH. 
-
-
-
 Essential Linux Commands 
 
 
