@@ -34,17 +34,9 @@ These commands help you move between different folders (directories) and see the
 
  ### 📌 Example:
 
+
 Move to the `/var/log` directory and list files in a human-readable format:
 
 ```bash
 cd /var/log
 ls -lh 
-
-
-
-
-
-
-
-
-
