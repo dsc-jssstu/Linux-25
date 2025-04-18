@@ -1,3 +1,8 @@
+
+### 5️⃣ User Management & Permissions
+
+Linux is a multi-user system, and managing users and their permissions is fundamental for security and controlling who can access and modify files and resources.
+
 #### User Management Commands
 
 These commands allow you to get information about users and groups.
