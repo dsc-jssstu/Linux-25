@@ -1,4 +1,4 @@
-###Why Use Vim Over GUI Editors
+### Why Use Vim Over GUI Editors
 
 Vim is keyboard-driven, ultra-fast, and lightweight, making it ideal for coding and scripting. Unlike GUI editors, it requires minimal system resources, making it efficient even on older machines. 
 
