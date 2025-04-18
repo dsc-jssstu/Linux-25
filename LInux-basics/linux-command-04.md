@@ -1,3 +1,7 @@
+###Why Use Vim Over GUI Editors
+
+Vim is keyboard-driven, ultra-fast, and lightweight, making it ideal for coding and scripting. Unlike GUI editors, it requires minimal system resources, making it efficient even on older machines. 
+
 ### 4️⃣ Text Editors (Nano & Vim)
 
 These are command-line based text editors that allow you to create and modify files directly within the terminal.
