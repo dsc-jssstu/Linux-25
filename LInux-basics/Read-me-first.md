@@ -1,48 +1,5 @@
 
 
-Essential Linux Commands 
-
-
-
-
-1️⃣ Navigation Commands 
-
-
-
-These commands help users move between directories and list files. 
-
-
-
-pwd → Displays the current directory. (Example: pwd → /home/user) 
-
-
-
-ls → Lists files in the current directory. (ls) 
-
-
-
-ls -l → Shows detailed file info (permissions, size, owner). 
-
-
-
-ls -a → Reveals hidden files. 
-
-
-
-cd [directory] → Moves to a specific directory. (Example: cd Documents) 
-
-
-
-cd .. → Moves up one directory level. (cd ..) 
-
-
-
-cd / → Navigates to the root directory. put this in github readme form
-
-
-
-Markdown
-
 # Basic Linux Commands
 
 Linux often uses the Command Line Interface (CLI) instead of a Graphical User Interface (GUI) for tasks that require speed, automation, and precise control. While GUIs are easy to use, they can be slower, use more computer resources, and might not have all the advanced features you need. The CLI lets you run tasks faster, automate things that you do often, and manage systems from a distance using SSH.
