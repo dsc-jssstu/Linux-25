@@ -16,8 +16,12 @@ These commands are used to create, copy, move, and delete files and directories.
 
 ### 📌 Example:
 
-Create a project folder, navigate into it:
+Create a project folder, add a Python file, copy it, rename the copy, and then delete the original file:
 
 ```bash
 mkdir Projects
 cd Projects
+touch main.py
+cp main.py backup.py
+mv backup.py old_main.py
+rm main.py
