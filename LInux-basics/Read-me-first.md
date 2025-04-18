@@ -39,5 +39,3 @@ These commands help you move between different folders (directories) and see the
 
 
 
-Gemini can make mistakes, so double-check it
-
