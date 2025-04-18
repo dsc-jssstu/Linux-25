@@ -19,7 +19,8 @@ The CLI allows users to execute tasks faster, automate repetitive processes, and
 Essential Linux Commands 
 
 
-\space
+
+
 1️⃣ Navigation Commands 
 
 
