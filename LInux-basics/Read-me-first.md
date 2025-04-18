@@ -15,21 +15,22 @@ These commands help you move between different folders (directories) and see the
     pwd
     /home/user
     ```
-#* `ls` → Lists all the files and folders in the current directory.
+* `ls` → Lists all the files and folders in the current directory.
     ```
     ls
     ```
-#* `ls -l` → Shows you detailed information about the files and folders, like who has permission to do what, how big they are, and who owns them.
-#* `ls -a` → Shows you all files, including hidden ones (files that start with a `.`).
-#* `cd [directory]` → Changes your current directory to the one you specify.
+* `ls -l` → Shows you detailed information about the files and folders, like who has permission to do what, how big they are, and who owns them.
+  
+* `ls -a` → Shows you all files, including hidden ones (files that start with a `.`).
+* `cd [directory]` → Changes your current directory to the one you specify.
     ```
     cd Documents
     ```
-#* `cd ..` → Moves you up one level in the directory structure (to the parent directory).
+* `cd ..` → Moves you up one level in the directory structure (to the parent directory).
     ```
     cd ..
     ```
-#* `cd /` → Takes you directly to the root directory of the system.
+* `cd /` → Takes you directly to the root directory of the system.
 
 
 
