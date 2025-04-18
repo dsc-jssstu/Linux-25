@@ -32,6 +32,14 @@ These commands help you move between different folders (directories) and see the
     ```
 * `cd /` → Takes you directly to the root directory of the system.
 
+ ### 📌 Example:
+
+Move to the `/var/log` directory and list files in a human-readable format:
+
+```bash
+cd /var/log
+ls -lh 
+
 
 
 
