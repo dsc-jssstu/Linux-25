@@ -21,8 +21,6 @@ After modifying `/etc/fstab`, you can either reboot your system or manually moun
 ```bash
 sudo mount /sys/kernel/tracing
 
-tracefs        /sys/kernel/tracing    tracefs   defaults         0       0
-
 After adding this line, the `tracefs` filesystem will be automatically mounted at `/sys/kernel/tracing` each time your system boots.
 
  ### **2. Mounting at Runtime:**
