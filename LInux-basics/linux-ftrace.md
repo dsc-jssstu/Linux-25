@@ -23,7 +23,7 @@ sudo mount /sys/kernel/tracing
 tracefs        /sys/kernel/tracing    tracefs   defaults         0       0
 After adding this line, the `tracefs` filesystem will be automatically mounted at `/sys/kernel/tracing` each time your system boots.
 
-**2. Mounting at Runtime:**
+ ### **2. Mounting at Runtime:**
 
 Alternatively, you can mount the filesystem manually while your system is running using the following command:
 
