@@ -14,3 +14,9 @@ To make the ftrace interface accessible, the `tracefs` file system needs to be m
 
    For persistent mounting across system reboots, add the following entry to your `/etc/fstab` file:
 
+tracefs /sys/kernel/tracing tracefs defaults 0 0
+
+After modifying `/etc/fstab`, you can either reboot your system or manually mount the file system immediately using:
+
+```bash
+sudo mount /sys/kernel/tracing
