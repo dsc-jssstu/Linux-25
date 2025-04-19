@@ -1,3 +1,5 @@
+#!/bin/bash
+
 greet() {
     echo "Hello, $1! Welcome to my script."
     echo "The time is $(date +"%H:%M:%S")"

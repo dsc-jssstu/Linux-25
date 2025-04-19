@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Checking if the file 'example.txt' exists in this directory"
 
 if [ -f "example.txt" ]
