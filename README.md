@@ -9,7 +9,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [Basic Linux Commands](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 💻: Fundamental commands for navigating, managing files, and interacting with the Linux system.
 * [File Operations](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 📂: Learn how to create, copy, move, and delete files and directories.
 * [Viewing File Contents](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 👀: Techniques for reading and analyzing text files.
-* [Text Editors (gedit & Vim)](https://github.com/dsc-jssstu/Linux-25/blob/main/editors/vim.md) ✍️: Introduction to command-line text editors for direct file manipulation.
+* [Text Editors (gedit & Vim)](https://github.com/dsc-jssstu/Linux-25/tree/main/editors) ✍️: Introduction to command-line text editors for direct file manipulation.
 * [User Management & Permissions](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 👤🔑: Understanding user accounts, groups, and how to control access to files.
 * [Process Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) ⚙️: Monitoring and controlling running programs on your system.
 * [Networking & Package Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🌐📦: Configuring network connectivity and understanding the protocols used .
