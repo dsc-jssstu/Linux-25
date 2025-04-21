@@ -47,5 +47,22 @@ You can install Vim on your Linux system using your distribution's package manag
 
 Vim comes with a built-in tutorial to help you learn the basics. To access it, run the following command in your terminal:
 
-```bash
 vimtutor
+
+## Example: Opening and Compiling a C File
+
+1.  **Open a C file in Gedit:**
+    ```bash
+    vim my_program.c
+    ```
+
+2.  **After editing and saving `my_program.c`, you can compile it using a C compiler (like GCC):**
+    ```bash
+    cc my_program.c
+    ```
+    This will generate an executable file named `a.out` in the current directory.
+
+3.  **Run the compiled program:**
+    ```bash
+    ./a.out
+    ```
