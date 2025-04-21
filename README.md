@@ -15,6 +15,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [Networking & Package Management](#7-networking--package-management-200---230) 🌐📦: Configuring network connectivity and installing/managing software.
 * [All About Linux You Need to Know 🤔](#all-about-linux-you-need-to-know-) 💡: A brief history and compelling reasons to choose Linux.
 * [Filters in Linux](#filters-in-linux) 🔍: Powerful tools for processing and transforming text data.
+*  [gdb -compiler-linux][#gdb-linux]  💻:GDB  built in compiler.
 
 We sincerely hope this collection of materials propels you forward in your exploration of Linux! 👍
 
