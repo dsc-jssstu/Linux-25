@@ -7,15 +7,16 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 **Inside you'll find:**
 
 * [Basic Linux Commands](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 💻: Fundamental commands for navigating, managing files, and interacting with the Linux system.
-* [File Operations](#2-file-operations) 📂: Learn how to create, copy, move, and delete files and directories.
-* [Viewing File Contents](#3-viewing-file-contents) 👀: Techniques for reading and analyzing text files.
-* [Text Editors (vm,gdb & Vim)](#4-text-editors-nano--vim) ✍️: Introduction to command-line text editors for direct file manipulation.
-* [User Management & Permissions](#5-user-management--permissions) 👤🔑: Understanding user accounts, groups, and how to control access to files.
-* [Process Management](#6-process-management-130---200) ⚙️: Monitoring and controlling running programs on your system.
-* [Networking & Package Management](#7-networking--package-management-200---230) 🌐📦: Configuring network connectivity and understanding the protocols used .
-* [All About Linux You Need to Know 🤔](#all-about-linux-you-need-to-know-) 💡: A brief history and compelling reasons to choose Linux.
-* [Filters in Linux](#filters-in-linux) 🔍: Powerful tools for processing and transforming text data.
-* GDB :  💻:GDB  built in compiler.
+* [File Operations](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 📂: Learn how to create, copy, move, and delete files and directories.
+* [Viewing File Contents](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 👀: Techniques for reading and analyzing text files.
+* [Text Editors (vm,gdb & Vim)](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) ✍️: Introduction to command-line text editors for direct file manipulation.
+* [User Management & Permissions](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 👤🔑: Understanding user accounts, groups, and how to control access to files.
+* [Process Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) ⚙️: Monitoring and controlling running programs on your system.
+* [Networking & Package Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🌐📦: Configuring network connectivity and understanding the protocols used .
+* [All About Linux You Need to Know 🤔](https://github.com/dsc-jssstu/Linux-25/blob/main/linux-basics-01.md) 💡: A brief history and compelling reasons to choose Linux.
+* [Filters in Linux](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🔍: Powerful tools for processing and transforming text data.
+* [GDB](https://github.com/dsc-jssstu/Linux-25/tree/main/gdb) 💻 :GDB  built in compiler.
+* [Shell Script](https://github.com/dsc-jssstu/Linux-25/tree/main/bash) 👨‍💻:Shell script essential for os 
 
 We sincerely hope this collection of materials propels you forward in your exploration of Linux! 👍
 
