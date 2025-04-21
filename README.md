@@ -6,7 +6,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 
 **Inside you'll find:**
 
-* [Basic Linux Commands](#basic-linux-commands) 💻: Fundamental commands for navigating, managing files, and interacting with the Linux system.
+* [Basic Linux Commands](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 💻: Fundamental commands for navigating, managing files, and interacting with the Linux system.
 * [File Operations](#2-file-operations) 📂: Learn how to create, copy, move, and delete files and directories.
 * [Viewing File Contents](#3-viewing-file-contents) 👀: Techniques for reading and analyzing text files.
 * [Text Editors (vm,gdb & Vim)](#4-text-editors-nano--vim) ✍️: Introduction to command-line text editors for direct file manipulation.
