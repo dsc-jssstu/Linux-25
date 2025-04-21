@@ -1,4 +1,4 @@
-# Linux-25: Your Gateway to the World of Linux 🚀
+# Linux-25: Your Gateway to the World of Linux  🐧 🚀
 
 This repository contains all the essential materials you need to embark on your Linux journey! 🐧
 
