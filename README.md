@@ -12,7 +12,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [Text Editors (Nano & Vim)](#4-text-editors-nano--vim) ✍️: Introduction to command-line text editors for direct file manipulation.
 * [User Management & Permissions](#5-user-management--permissions) 👤🔑: Understanding user accounts, groups, and how to control access to files.
 * [Process Management](#6-process-management-130---200) ⚙️: Monitoring and controlling running programs on your system.
-* [Networking & Package Management](#7-networking--package-management-200---230) 🌐📦: Configuring network connectivity and installing/managing software.
+* [Networking & Package Management](#7-networking--package-management-200---230) 🌐📦: Configuring network connectivity and understanding the protocols used .
 * [All About Linux You Need to Know 🤔](#all-about-linux-you-need-to-know-) 💡: A brief history and compelling reasons to choose Linux.
 * [Filters in Linux](#filters-in-linux) 🔍: Powerful tools for processing and transforming text data.
 * GDB :  💻:GDB  built in compiler.
