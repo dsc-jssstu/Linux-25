@@ -9,7 +9,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [Basic Linux Commands](#basic-linux-commands) 💻: Fundamental commands for navigating, managing files, and interacting with the Linux system.
 * [File Operations](#2-file-operations) 📂: Learn how to create, copy, move, and delete files and directories.
 * [Viewing File Contents](#3-viewing-file-contents) 👀: Techniques for reading and analyzing text files.
-* [Text Editors (Nano & Vim)](#4-text-editors-nano--vim) ✍️: Introduction to command-line text editors for direct file manipulation.
+* [Text Editors (vm,gdb & Vim)](#4-text-editors-nano--vim) ✍️: Introduction to command-line text editors for direct file manipulation.
 * [User Management & Permissions](#5-user-management--permissions) 👤🔑: Understanding user accounts, groups, and how to control access to files.
 * [Process Management](#6-process-management-130---200) ⚙️: Monitoring and controlling running programs on your system.
 * [Networking & Package Management](#7-networking--package-management-200---230) 🌐📦: Configuring network connectivity and understanding the protocols used .
