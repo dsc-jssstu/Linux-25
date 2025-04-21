@@ -25,7 +25,7 @@ We sincerely hope this collection of materials propels you forward in your explo
 For more interesting and enthusiastic events, be sure to follow us:
 
 **DSC-JSSSTU**
-
+<img src = "https://th.bing.com/th/id/OIP.NXxTDEskRNANYm8A_gEpywAAAA?rs=1&pid=ImgDetMain" alt ="DSC">
 Have any queries or want to connect with our community? Reach out to us on Discord:
 
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> [Join our Discord Server](https://discord.com/channels/1333840078732263435/1335652072984416287/1363559810221740235)
