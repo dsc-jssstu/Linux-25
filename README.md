@@ -16,7 +16,8 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [All About Linux You Need to Know 🤔](https://github.com/dsc-jssstu/Linux-25/blob/main/linux-basics-01.md) 💡: A brief history and compelling reasons to choose Linux.
 * [Filters in Linux](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🔍: Powerful tools for processing and transforming text data.
 * [GDB](https://github.com/dsc-jssstu/Linux-25/tree/main/gdb) 💻 :GDB  built in compiler.
-* [Shell Script](https://github.com/dsc-jssstu/Linux-25/tree/main/bash) 👨‍💻:Shell script essential for os 
+* [Shell Script](https://github.com/dsc-jssstu/Linux-25/tree/main/bash) 👨‍💻:Shell script essential for os
+* [os basics](https://github.com/dsc-jssstu/Linux-25/tree/main/os-basics)🧑‍💻🖥️:thing need to know about linux
 
 We sincerely hope this collection of materials propels you forward in your exploration of Linux! 👍
 
