@@ -51,7 +51,7 @@ vimtutor
 
 ## Example: Opening and Compiling a C File
 
-1.  **Open a C file in Gedit:**
+1.  **Open a vim file in Gedit:**
     ```bash
     vim my_program.c
     ```
