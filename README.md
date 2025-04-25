@@ -18,6 +18,8 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [GDB](https://github.com/dsc-jssstu/Linux-25/tree/main/gdb) 💻 :GDB  built in compiler.
 * [Shell Script](https://github.com/dsc-jssstu/Linux-25/tree/main/bash) 👨‍💻:Shell script essential for os
 * [os basics](https://github.com/dsc-jssstu/Linux-25/tree/main/os-basics)🧑‍💻🖥️:thing need to know about linux
+* [vidoes to refer]()📎:Links for SOme youtube channel and courses to refer
+  
 
 We sincerely hope this collection of materials propels you forward in your exploration of Linux! 👍
 
