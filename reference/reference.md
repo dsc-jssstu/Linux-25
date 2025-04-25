@@ -13,6 +13,9 @@ To get the most out of this event, we recommend going through the following reso
 ### Udemy Course
 - [Linux for Absolute Beginners](https://www.udemy.com/course/linux-for-absolute-beginners/learn/lecture/3267730?start=0#overview)  
   This course is perfect for those starting from scratch. It provides a structured approach to learning Linux and its applications.
+  ### CISCO Network Academy Course on Operating System
+- [Operating System Basics](https://www.netacad.com/)  
+  This course is perfect for those who wants master OS concepts in cyber perspective,it is free course with vailid certification.
 
 ## Repository Contents
 
