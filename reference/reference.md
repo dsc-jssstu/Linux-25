@@ -15,7 +15,7 @@ To get the most out of this event, we recommend going through the following reso
   This course is perfect for those starting from scratch. It provides a structured approach to learning Linux and its applications.
   ### CISCO Network Academy Course on Operating System
 - [Operating System Basics](https://www.netacad.com/)  
-  This course is perfect for those who wants master OS concepts in cyber perspective,it is free course with vailid certification.
+  This course is perfect for those who wants master OS concepts in cyber perspective,it is free course with valid certification.
 
 ## Repository Contents
 
