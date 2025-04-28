@@ -23,6 +23,12 @@ This repository contains:
 - Reference materials
 - Code examples written in **C** and **Shell**
 - Exercises to practice your Linux skills
+## Bash Script 
+
+
+## GDB editor
+- youtube link
+https://youtu.be/Dq8l1_-QgAc?si=ueXR42NJTjQ3fTn-
 
 ## Getting Started
 
