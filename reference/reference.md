@@ -24,6 +24,8 @@ This repository contains:
 - Code examples written in **C** and **Shell**
 - Exercises to practice your Linux skills
 ## Bash Script 
+- youtube link
+https://youtu.be/hKCX6nkA_oA?si=4pHW8-pdzmhMffun
 
 
 ## GDB editor
