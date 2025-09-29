@@ -34,7 +34,9 @@ For more interesting and enthusiastic events, be sure to follow us:
 
 Have any queries or want to connect with our community? Reach out to us on Discord:
 
-<img src="https://img.shields.io/badge/Discord-7289DA? style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> [DISCORD]( href='https://discord.com/channels/1333840078732263435/1335652072984416287/1363559810221740235')
+<a href="YOUR_DISCORD_INVITE_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+</a>
 
 
 
