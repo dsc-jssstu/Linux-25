@@ -1,49 +1,57 @@
-### 7️⃣ Networking & Package Management (2:00 - 2:30)
+## 7️⃣ Networking & Package Management
 
 Networking commands help you configure and monitor network connectivity, while package management tools allow you to install, upgrade, and remove software on your system.
 
-#### 1️⃣ Checking Network
+---
 
-These commands are used to inspect your network interfaces and test connectivity.
+### 🌐 Network Diagnostics & Information
 
-* `ifconfig` → Displays detailed information about your network interfaces, including IP addresses, MAC addresses, and network statistics. Note that on some newer Linux distributions, this command might be replaced by `ip addr`.
-    ```bash
-    ifconfig
-    eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
-            inet 192.168.1.100  netmask 255.255.255.0  broadcast 192.168.1.255
-            ether 00:11:22:33:44:55  txqueuelen 1000  (Ethernet)
-            RX packets 12345 bytes 6789012 (6.7 MB)
-            RX errors 0  dropped 0  overruns 0  frame 0
-            TX packets 54321 bytes 12345678 (12.3 MB)
-            TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+These commands are crucial for inspecting network interfaces, testing connectivity, and diagnosing issues.
 
-    lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
-            inet 127.0.0.1  netmask 255.0.0.0
-            loop  txqueuelen 1000  (Local Loopback)
-            RX packets 123 bytes 4567 (4.5 KB)
-            RX errors 0  dropped 0  overruns 0  frame 0
-            TX packets 123 bytes 4567 (4.5 KB)
-            TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
-    ```
-* `ping [hostname/IP]` → Sends ICMP (Internet Control Message Protocol) echo requests to a specified hostname or IP address and listens for responses. This is a fundamental tool for testing network connectivity and latency. Press `CTRL + C` to stop the `ping` command.
-    ```bash
-    ping google.com
-    PING google.com (142.250.185.78) 56(84) bytes of data.
-    64 bytes from bom12s10-in-f78.1e100.net (142.250.185.78): icmp_seq=1 ttl=117 time=12.5 ms
-    64 bytes from bom12s10-in-f78.1e100.net (142.250.185.78): icmp_seq=2 ttl=117 time=12.3 ms
-    ^C
-    --- google.com ping statistics ---
-    2 packets transmitted, 2 received, 0% packet loss, time 1001ms
-    rtt min/avg/max/mdev = 12.345/12.420/12.495/0.075 ms
-    ```
-* `netstat` → Displays various network-related information, including network connections, routing tables, interface statistics, masquerade connections, and multicast memberships. The `netstat` command is being gradually replaced by the `ss` command in newer systems.
+| Command | Purpose | Example |
+| :--- | :--- | :--- |
+| **`ifconfig`** | Displays detailed information about all network interfaces. (Often replaced by `ip addr` in newer Linux systems.) | `ifconfig` |
+| **`ip addr`** | **Modern utility** for showing and managing IP addresses, routes, and network devices. | `ip addr show` |
+| **`ping`** | Tests connectivity and latency by sending ICMP echo requests to a specified host. (Press `CTRL + C` to stop.) | `ping google.com` |
+| **`ss`** | A faster, more flexible utility for inspecting **sockets** (connections and listening ports). Modern replacement for `netstat`. | `ss -tuln` |
+| **`netstat`** | Displays network connections, routing tables, and interface statistics. | `netstat -tulnp` |
+| **`traceroute`** | Tracks the route (hops) packets take to reach a host, showing all intermediate routers and their latency. | `traceroute example.com` |
+| **`mtr`** | (My Traceroute) Combines `ping` and `traceroute` into a continuous, **live display** for real-time monitoring. | `mtr google.com` |
+| **`nmap`** | (Network Mapper) Used for **network discovery** and security auditing, finding live hosts and open ports. | `nmap 192.168.1.1/24` |
 
-    ```bash
-    netstat -tulnp
-    ```
+---
 
-    * `-t`: Shows TCP connections.
-    * `-u`: Shows UDP connections.
-    * `-l`: Shows listening sockets (ports that services are listening on).
-    * `-n`: Shows numerical addresses instead of resolving hostnames.
-    * `-p`: Shows the PID and name of the program to which each socket belongs (requires root privileges).
+### 📡 DNS and Domain Lookups
+
+These commands help you query the Domain Name System to resolve names and retrieve domain registration information.
+
+| Command | Purpose | Example |
+| :--- | :--- | :--- |
+| **`nslookup`** | Queries DNS servers to find domain name or IP address information. | `nslookup example.com` |
+| **`dig`** | (Domain Information Groper) An advanced tool for querying DNS name servers and retrieving detailed DNS records. | `dig A example.com` |
+| **`host`** | Performs simple DNS lookups, converting domain names to IPs and vice-versa. | `host example.com` |
+| **`whois`** | Queries the **WHOIS database** to retrieve registration and administrative information about a domain. | `whois example.com` |
+
+---
+
+### 💻 Remote Access and Data Transfer
+
+These commands facilitate secure connections to remote machines and the transfer of files.
+
+| Command | Purpose | Example |
+| :--- | :--- | :--- |
+| **`ssh`** | (Secure Shell) Used to **securely log in** and execute commands on a remote computer. | `ssh user@192.168.1.5` |
+| **`scp`** | (Secure Copy) A command-line utility for **securely transferring files** between hosts using the SSH protocol. | `scp localfile.txt user@remote:/path/` |
+| **`wget`** | Non-interactive utility for **retrieving files** from the web (HTTP, HTTPS, FTP). Great for downloading large files. | `wget https://example.com/file.zip` |
+| **`curl`** | Tool for **transferring data** with URL syntax, supporting numerous protocols. Often used for testing APIs or downloading content. | `curl -O https://example.com/api/data.json` |
+
+---
+
+### 💻 System Naming
+
+These commands display information about your local machine's kernel and hostname.
+
+| Command | Purpose | Example |
+| :--- | :--- | :--- |
+| **`uname -a`** | Displays detailed information about the system's **kernel**. | `uname -a` |
+| **`hostname`** | Displays (or sets) the system's current **hostname**. | `hostname` |
