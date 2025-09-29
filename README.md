@@ -12,7 +12,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 * [Text Editors (gedit & Vim)](https://github.com/dsc-jssstu/Linux-25/tree/main/editors) ✍️: Introduction to command-line text editors for direct file manipulation.
 * [User Management & Permissions](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 👤🔑: Understanding user accounts, groups, and how to control access to files.
 * [Process Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) ⚙️: Monitoring and controlling running programs on your system.
-* [Networking & Package Management](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🌐📦: Configuring network connectivity and understanding the protocols used .
+* [Networking & Package Management](LInux-basics/linux-command-09.md) 🌐📦: Configuring network connectivity and understanding the protocols used .
 * [All About Linux You Need to Know 🤔](https://github.com/dsc-jssstu/Linux-25/blob/main/linux-basics-01.md) 💡: A brief history and compelling reasons to choose Linux.
 * [Filters in Linux](https://github.com/dsc-jssstu/Linux-25/tree/main/LInux-basics) 🔍: Powerful tools for processing and transforming text data.
 * [GDB](https://github.com/dsc-jssstu/Linux-25/tree/main/gdb) 💻 :GDB  built in compiler.
