@@ -24,7 +24,7 @@ Linux is a dynamic and ever-evolving field with continuous exciting developments
 We sincerely hope this collection of materials propels you forward in your exploration of Linux! 👍
 
 
-## Stay Connected!
+## Stay Connected!z
 
 For more interesting and enthusiastic events, be sure to follow us:
 
@@ -34,7 +34,7 @@ For more interesting and enthusiastic events, be sure to follow us:
 
 Have any queries or want to connect with our community? Reach out to us on Discord:
 
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  href=" https://discord.com/channels/1333840078732263435/1335652072984416287/1363559810221740235"alt="Discord"> [Join our Discord Server](https://discord.com/channels/1333840078732263435/1335652072984416287/1363559810221740235)
+<img src="https://img.shields.io/badge/Discord-7289DA? href='https://discord.com/channels/1333840078732263435/1335652072984416287/1363559810221740235' style=for-the-badge&logo=discord&logoColor=white" alt="Discord"> 
 
 
 
